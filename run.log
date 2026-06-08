@@ -1,0 +1,8 @@
+2026-06-08 12:44:15 [INFO] Batch Pipeline Job initialization sequence started.
+2026-06-08 12:44:15 [INFO] Loading runtime target configuration from: config.yaml
+2026-06-08 12:44:15 [INFO] Configuration successfully validated. Version: v1, Window: 5, Seed: 42
+2026-06-08 12:44:15 [INFO] Reading ingestion source dataset path from: data.csv.csv
+2026-06-08 12:44:15 [INFO] Dataset successfully ingested into workspace dataframe. Total rows: 10000
+2026-06-08 12:44:15 [INFO] Calculating rolling mean vectors using window step parameter size: 5
+2026-06-08 12:44:15 [INFO] Signal array evaluation matrix generation complete.
+2026-06-08 12:44:15 [INFO] Pipeline job completed successfully. Signal Rate: 0.4991,Latency: 42ms
